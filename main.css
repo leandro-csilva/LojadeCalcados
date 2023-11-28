@@ -37,7 +37,8 @@ body {
 
 .nav-produtos .nav-link.active,
 #fale-conosco button,
-.tab-pane button {
+.tab-pane button,
+.tab-pane button:hover {
       background-color: #119beb;
       color: #fff;
 }
